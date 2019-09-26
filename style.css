@@ -1,0 +1,56 @@
+body{
+    background-color: rgb(197, 196, 196);
+    font-family: 'Montserrat', sans-serif;
+}
+.presentation{
+    box-sizing: border-box;
+    height: 40%;
+    width:500px;
+    background-color: rgb(255, 255, 255);
+    margin-left: 30%;
+    margin-bottom:3%;
+    padding: 2%;
+
+}
+
+.reseaux{ box-sizing: border-box;
+    height: 40%;
+    width:500px;
+    background-color: rgb(255, 255, 255);
+    margin-left: 30%;
+    margin-bottom:3%;
+    padding: 2%;
+}
+
+.movies{ box-sizing: border-box;
+    height: 40%;
+    width:500px;
+    background-color: rgb(255, 255, 255);
+    margin-left: 30%;
+    padding: 2%;
+}
+
+
+
+p{
+    text-align: justify;
+color: rgb(85, 83, 83);
+}
+
+h1{
+    text-align: center;
+    color:red;
+}
+
+h2{
+    text-align:center;
+    color:rgb(85, 83, 83);
+}
+
+.Tim{
+    border-radius:100%;
+    border: solid 4px rgb(107, 103, 103);
+    width:25%;
+    height:25%;
+    margin-left:37%;
+}
