@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(197, 196, 196);
+    background-color: rgb(212, 206, 206);
     font-family: 'Montserrat', sans-serif;
 }
 .presentation{
@@ -10,6 +10,7 @@ body{
     margin-left: 30%;
     margin-bottom:3%;
     padding: 2%;
+    border-radius: 6px;
 
 }
 
@@ -20,6 +21,8 @@ body{
     margin-left: 30%;
     margin-bottom:3%;
     padding: 2%;
+    border-radius: 6px;
+    text-align:center;
 }
 
 .movies{ box-sizing: border-box;
@@ -28,6 +31,8 @@ body{
     background-color: rgb(255, 255, 255);
     margin-left: 30%;
     padding: 2%;
+    border-radius: 6px;
+    text-align:center;
 }
 
 
@@ -40,17 +45,63 @@ color: rgb(85, 83, 83);
 h1{
     text-align: center;
     color:red;
+    opacity:0.7;
 }
 
 h2{
     text-align:center;
     color:rgb(85, 83, 83);
+    opacity: 0.8;
+}
+
+h3{text-align:center;
+    color:rgb(85, 83, 83);
+    opacity: 0.8;
+margin-top: 15%}
+
+.button{background-color: red;
+padding: 3%;
+margin: 33%;
+color:white;
+font-weight: bold;
+text-decoration: none;
+border-radius: 8px;
+opacity: 0.7;
 }
 
 .Tim{
     border-radius:100%;
-    border: solid 4px rgb(107, 103, 103);
+    border: solid 4px rgb(107, 103, 103) ;
     width:25%;
     height:25%;
     margin-left:37%;
 }
+
+.film{
+    width:25%;
+    height:25%;
+}
+
+
+
+.facebook{width:10%;
+    height:10%;
+    margin:2%;
+    opacity: 0.2;
+    
+}
+
+.linkedin{width:10%;
+    height:10%;
+    margin:2%;
+    opacity: 0.2;
+    padding-left:7%;
+    
+}
+
+.twitter{width:8%;
+    height:8%;
+    margin:3%;
+    opacity: 0.2;
+    padding-left: 7%;
+f}
